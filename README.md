@@ -4,7 +4,7 @@ This is a telegram bot writen in python for mirroring files on the internet to o
 
 <details>
  <summary># Features supported:</summary>
-
+<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 ## Additional Features
 - Mirroring Uptobox.com links to Google Drive (Uptobox account must be premium)
 - Nyaa.si and Sukebei Torrent search
